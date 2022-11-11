@@ -14,7 +14,7 @@ Forked from: https://github.com/NoroffFEU/social-media-client
 - Project is configured to run Prettier on commit  :heavy_check_mark:
 - Project is configured to run ESLint on commit  :heavy_check_mark:
 - Project is configured to run Jest on commit    :heavy_check_mark:
-- Project is configured to deploy to pages on merge to default
+- Project is configured to deploy to pages on merge to default :heavy_check_mark:
 
 
 #### The following file changes are required:
@@ -46,7 +46,8 @@ Forked from: https://github.com/NoroffFEU/social-media-client
 - v0.1.7 e2e test completed, login form validation 
 - v0.1.8 e2e test completed, create item form validation
 - v0.1.9 e2e test completed, logout buttton logs the user out 
-- v0.1.10 Automated Unit Testing workflow run working 
-- v0.1.11 Automated E2E Testing workflow run working
+- v0.1.10 automated Unit Testing workflow run working 
+- v0.1.11 automated E2E Testing workflow run working
+- v0.1.12 all workflow runs are working  
 
 *Cypress v10.7.0 would not run on my setup. I am using v10.11.0
