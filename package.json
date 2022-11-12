@@ -13,8 +13,7 @@
     "format": "prettier -w src/js/**/*.js",
     "lint": "eslint src/**/*.js",
     "lint-fix": "eslint src/**/*.js --cache --fix",
-    "prepare": "husky install",
-    "dev": "vite"
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
