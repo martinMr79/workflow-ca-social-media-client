@@ -25,7 +25,7 @@ Forked from: https://github.com/NoroffFEU/social-media-client
 #### The following features must be automatically tested with unit tests:
 
 - The login function returns a valid token when provided with valid credentials :heavy_check_mark:
-- The logout function clears the token from browser storage
+- The logout function clears the token from browser storage  :heavy_check_mark:
 - The create item function creates a new item on the API :heavy_check_mark:
 
 
@@ -50,5 +50,6 @@ Forked from: https://github.com/NoroffFEU/social-media-client
 - v0.1.11 automated E2E Testing workflow run working
 - v0.1.12 all workflow runs are working  
 - v0.1.13 vite removed, e2e create post added
+- v1.0.0 All requirments checked
 
 *Cypress v10.7.0 would not run on my setup. I am using v10.11.0
