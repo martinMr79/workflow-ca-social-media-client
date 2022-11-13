@@ -1,5 +1,6 @@
 # workflow-ca-social-media-client
 
+
 #### Select an existing JavaScript project that has:
 
 - API calls to CRUD an item :heavy_check_mark:
@@ -35,6 +36,15 @@ Forked from: https://github.com/NoroffFEU/social-media-client
 - The create item form validates user inputs correctly based on API restrictions  :heavy_check_mark:
 - The logout button logs the user out when clicked  :heavy_check_mark:
 
+## Test status badges
+
+**Cypress Tests**
+
+[![Automated E2E Testing](https://github.com/martinMr79/workflow-ca-social-media-client/actions/workflows/test-e2e.yml/badge.svg)](https://github.com/martinMr79/orkflow-ca-social-media-client/actions/workflows/test-e2e.yml)
+
+**Jest Tests**
+
+[![Automated E2E Testing](https://github.com/martinMr79/workflow-ca-social-media-client/actions/workflows/main.yml/badge.svg)](https://github.com/martinMr79/orkflow-ca-social-media-client/actions/workflows/main.yml)
 
 ##### version history:
 - v0.1.1 prettier installed & merged to workflow branch
