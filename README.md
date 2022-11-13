@@ -44,9 +44,9 @@ Forked from: https://github.com/NoroffFEU/social-media-client
 
 **Jest Tests**
 
-[![Automated E2E Testing](https://github.com/martinMr79/workflow-ca-social-media-client/actions/workflows/main.yml/badge.svg)](https://github.com/martinMr79/orkflow-ca-social-media-client/actions/workflows/main.yml)
+[![Automated Unit Testing](https://github.com/martinMr79/workflow-ca-social-media-client/actions/workflows/main.yml/badge.svg)](https://github.com/martinMr79/orkflow-ca-social-media-client/actions/workflows/main.yml)
 
-##### version history:
+## version history:
 - v0.1.1 prettier installed & merged to workflow branch
 - v0.1.2 eslint installed & merged to workflow branch
 - v0.1.3 on-commit hooks addded & merged to workflow branch
